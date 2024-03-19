@@ -50,3 +50,6 @@ plt.xlabel('First Published Year')
 plt.ylabel('Sales in Millions')
 plt.legend()
 plt.show()
+
+
+plt.savefig('regression_plot.pdf', format='pdf')

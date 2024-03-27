@@ -16,7 +16,7 @@ annual_data = data.groupby('year').agg({'local_price': 'median', 'dollar_ex': 'm
 x = annual_data[['dollar_ex']]
 y = annual_data[['local_price']]
 
-srcemodel = LinearRegression();
+srcemodel = LinearRegression()
 srcemodel.fit(x,y)
 
 plt.scatter(x,y, color = 'orange')

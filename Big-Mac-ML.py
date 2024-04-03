@@ -19,7 +19,7 @@ y = annual_data[['local_price']]
 srcemodel = LinearRegression()
 srcemodel.fit(x,y)
 
-plt.scatter(x,y, color = 'orange')
+plt.scatter(x,y, color = 'blue')
 plt.plot(x, srcemodel.predict(x), color = 'pink')
 plt.title('Big Mac Prices vs Exchange Rate')
 plt.xlabel('Exchange rate to USD')

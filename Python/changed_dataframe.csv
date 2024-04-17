@@ -1,0 +1,211 @@
+Books,Authors,Language,First_Published,Sales_in_millions
+A Tale of Two Cities,Charles Dickens,English,1859,200.0
+Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120.0
+And Then There Were None,Agatha Christie,English,1939,100.0
+The Hobbit,J. R. R. Tolkien,English,1937,100.0
+She: A History of Adventure,H. Rider Haggard,English,1887,83.0
+The Da Vinci Code,Dan Brown,English,2003,80.0
+Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77.0
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65.0
+Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65.0
+Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65.0
+Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65.0
+Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65.0
+The Catcher in the Rye,J. D. Salinger,English,1951,65.0
+The Bridges of Madison County,Robert James Waller,English,1992,60.0
+Lolita,Vladimir Nabokov,English,1955,50.0
+The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50.0
+Anne of Green Gables,Lucy Maud Montgomery,English,1908,50.0
+Black Beauty,Anna Sewell,English,1877,50.0
+The Eagle Has Landed,Jack Higgins,English,1975,50.0
+Watership Down,Richard Adams,English,1972,50.0
+The Hite Report,Shere Hite,English,1976,50.0
+Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50.0
+The Ginger Man,J. P. Donleavy,English,1955,50.0
+The Tale of Peter Rabbit,Beatrix Potter,English,1902,45.0
+Jonathan Livingston Seagull,Richard Bach,English,1970,44.0
+The Very Hungry Caterpillar,Eric Carle,English,1969,43.0
+A Message to Garcia,Elbert Hubbard,English,1899,40.0
+To Kill a Mockingbird,Harper Lee,English,1960,40.0
+Flowers in the Attic,V. C. Andrews,English,1979,40.0
+Cosmos,Carl Sagan,English,1980,40.0
+Angels & Demons,Dan Brown,English,2000,39.0
+Alcholics Anonymous,William Griffith Wilson,English,1939,35.0
+Kane and Abel,Jeffrey Archer,English,1979,37.0
+Your Erroneous Zones,Wayne Dyer,English,1976,35.0
+The Thorn Birds,Colleen McCullough,English,1977,33.0
+The Kite Runner,Khaled Hosseini,English,2003,31.5
+Valley of the Dolls,Jacqueline Susann,English,1966,31.0
+How to Win Friends and Influence People,Dale Carnegie,English,1936,35.0
+The Great Gatsby,F. Scott Fitzgerald,English,1925,30.0
+Gone with the Wind,Margaret Mitchell,English,1936,30.0
+Rebecca,Daphne du Maurier,English,1938,30.0
+The Revolt of Mamie Stover,William Bradford Huie,English,1951,30.0
+The Lost Symbol,Dan Brown,English,2009,30.0
+The Hunger Games,Suzanne Collins,English,2008,29.0
+James and the Giant Peach,Roald Dahl,English,1961,28.0
+Who Moved My Cheese?,Spencer Johnson,English,1998,28.0
+A Brief History of Time,Stephen Hawking,English,1988,25.0
+Lust for Life,Irving Stone,English,1934,25.0
+The Wind in the Willows,Kenneth Grahame,English,1908,25.0
+The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25.0
+The Celestine Prophecy,James Redfield,English,1993,23.0
+The Fault in Our Stars,John Green,English,2012,23.0
+The Girl on the Train,Paula Hawkins,English,2015,23.0
+The Shack,William P. Young,English,2007,22.5
+The Godfather,Mario Puzo,English,1969,21.0
+Love Story,Erich Segal,English,1970,21.0
+Catching Fire,Suzanne Collins,English,2009,21.0
+Mockingjay,Suzanne Collins,English,2010,20.0
+Gone Girl,Gillian Flynn,English,2012,20.0
+The Bermuda Triangle,Charles Berlitz,English,1974,20.0
+Things Fall Apart,Chinua Achebe,English,1958,20.0
+The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20.0
+Jaws,Peter Benchley,English,1974,20.0
+Love You Forever,Robert Munsch,English,1986,20.0
+The Women's Room,Marilyn French,English,1977,20.0
+What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20.0
+Adventures of Huckleberry Finn,Mark Twain,English,1885,20.0
+"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20.0
+Pride and Prejudice,Jane Austen,English,1813,20.0
+Where the Wild Things Are,Maurice Sendak,English,1963,20.0
+The Power of Positive Thinking,Norman Vincent Peale,English,1952,20.0
+The Secret,Rhonda Byrne,English,2006,20.0
+Fear of Flying,Erica Jong,English,1973,20.0
+Dune,Frank Herbert,English,1965,20.0
+Charlie and the Chocolate Factory,Roald Dahl,English,1964,20.0
+The Naked Ape,Desmond Morris,English,1968,20.0
+Where the Crawdads Sing,Delia Owens,English,2018,18.0
+Matilda,Roald Dahl,English,1988,17.0
+The Book Thief,Markus Zusak,English,2005,16.0
+The Horse Whisperer,Nicholas Evans,English,1995,16.0
+Goodnight Moon,Margaret Wise Brown,English,1947,16.0
+All the Light We Cannot See,Anthony Doerr,English,2014,15.3
+Fifty Shades of Grey,E. L. James,English,2011,15.2
+The Outsiders,S. E. Hinton,English,1967,15.0
+Guess How Much I Love You,Sam McBratney,English,1994,15.0
+Shōgun,James Clavell,English,1975,15.0
+The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15.0
+The Pillars of the Earth,Ken Follett,English,1989,15.0
+The Grapes of Wrath,John Steinbeck,English,1939,15.0
+Interpreter of Maladies,Jhumpa Lahiri,English,2000,15.0
+Becoming,Michelle Obama,English,2018,14.0
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14.0
+Tuesdays with Morrie,Mitch Albom,English,1997,14.0
+God's Little Acre,Erskine Caldwell,English,1933,14.0
+A Wrinkle in Time,Madeleine L'Engle,English,1962,14.0
+Long Walk to Freedom,Nelson Mandela,English,1994,14.0
+The Old Man and the Sea,Ernest Hemingway,English,1952,13.0
+Life After Life,Raymond Moody,English,1975,13.0
+Peyton Place,Grace Metalious,English,1956,12.1
+The Giver,Lois Lowry,English,1993,12.0
+Me Before You,Jojo Moyes,English,2012,12.0
+The Prophet,Kahlil Gibran,English,1923,11.0
+The Boy in the Striped Pyjamas,John Boyne,English,2006,11.0
+The Exorcist,William Peter Blatty,English,1971,11.0
+The Gruffalo,Julia Donaldson,English,1999,10.5
+Fifty Shades Darker,E. L. James,English,2012,10.4
+Tobacco Road,Erskine Caldwell,English,1932,10.0
+The Cat in the Hat,Dr. Seuss,English,1957,10.5
+Diana: Her True Story,Andrew Morton,English,1992,10.0
+The Help,Kathryn Stockett,English,2009,10.0
+Catch-22,Joseph Heller,English,1961,10.0
+Eye of the Needle,Ken Follett,English,1978,10.0
+The Lovely Bones,Alice Sebold,English,2002,10.0
+Wild Swans,Jung Chang,English,1992,10.0
+The Total Woman,Marabel Morgan,English,1974,10.0
+What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10.0
+The Joy of Sex,Alex Comfort,English,1972,10.0
+The Gospel According to Peanuts,Robert L. Short,English,1965,10.0
+The Subtle Art of Not Giving a Fuck,Mark Manson,English,2016,10.0
+Life of Pi,Yann Martel,English,2001,10.0
+The Front Runner,Patricia Nell Warren,English,1974,10.0
+The Goal,Eliyahu M. Goldratt,English,1984,10.0
+Fahrenheit 451,Ray Bradbury,English,1953,10.0
+Angela's Ashes,Frank McCourt,English,1996,10.0
+Bridget Jones's Diary,Helen Fielding,English,1996,10.0
+Harry Potter,J. K. Rowling,English,1997,600.0
+Goosebumps,R. L. Stine,English,1992,400.0
+Perry Mason,Erle Stanley Gardner,English,1933,300.0
+Diary of a Wimpy Kid,Jeff Kinney,English,2007,275.0
+Berenstain Bears,Stan and Jan Berenstain,English,1962,260.0
+Choose Your Own Adventure,Various authors,English,1979,250.0
+Sweet Valley High,Francine Pascal and ghostwriters,English,1983,250.0
+The Railway Series,"Rev. W. Awdry, Christopher Awdry",English,1945,201.0
+Noddy,Enid Blyton,English,1949,200.0
+Nancy Drew,Various authors as Carolyn Keene,English,1930,200.0
+Robert Langdon,Dan Brown,English,2000,200.0
+Percy Jackson & the Olympians,Rick Riordan,English,2005,180.0
+The Baby-sitters Club,Ann Martin,English,1986,172.0
+Twilight,Stephenie Meyer,English,2005,160.0
+Star Wars,Various authors,English,1977,160.0
+Little Critter,Mercer Mayer,English,1975,150.0
+Peter Rabbit,Beatrix Potter,English,1902,150.0
+Fifty Shades,E. L. James,English,2011,150.0
+American Girl,Various authors,English,1986,160.0
+Chicken Soup for the Soul,"Jack Canfield, Mark Victor Hansen",English,1997,130.0
+Clifford the Big Red Dog,Norman Bridwell,English,1963,129.0
+Frank Merriwell,Gilbert Patten,English,1896,125.0
+Dirk Pitt,Clive Cussler,English,1973,120.0
+The Chronicles of Narnia,C. S. Lewis,English,1950,120.0
+Mr. Men,"Roger Hargreaves, Adam Hargreaves",English,1971,120.0
+The Hunger Games,Suzanne Collins,English,2008,100.0
+James Bond,Ian Fleming,English,1953,100.0
+A Song of Ice and Fire,George R. R. Martin,English,1996,90.0
+The Wheel of Time,"Robert Jordan, Brandon Sanderson",English,1990,100.0
+Discworld,Terry Pratchett,English,1983,90.0
+Alex Cross,James Patterson,English,1993,81.0
+Captain Underpants,Dav Pilkey,English,1997,80.0
+Fear Street,R. L. Stine,English,1989,80.0
+The Vampire Chronicles,Anne Rice,English,1976,80.0
+Winnie-the-Pooh,A. A. Milne; illustrated by E. H. Shepard,English,1926,70.0
+Magic Tree House series,Mary Pope Osborne,English,1992,70.0
+Left Behind,"Tim LaHaye, Jerry B. Jenkins",English,1996,65.0
+A Series of Unfortunate Events,Lemony Snicket aka Daniel Handler,English,1999,65.0
+Little House on the Prairie,Laura Ingalls Wilder,English,1932,60.0
+All Creatures Great and Small,"Alf Wight, as James Herriot",English,1970,60.0
+Jack Reacher,Lee Child,English,1997,60.0
+The Magic School Bus,"Joanna Cole, illustrated by Bruce Degen",English,1986,58.0
+Where's Wally?[241],Martin Handford,English,1987,55.0
+"Men Are from Mars, Women Are from Venus",John Gray,English,1992,50.0
+The Hardy Boys,Various authors as Franklin W. Dixon,English,1927,50.0
+The Bobbsey Twins,Various authors as Laura Lee Hope,English,1904,50.0
+Tarzan,Edgar Rice Burroughs,English,1914,50.0
+Earth's Children,Jean M. Auel,English,1980,45.0
+A Child's First Library Of Learning,Various authors,English,1980,45.0
+Junie B. Jones,Barbara Park,English,1992,44.0
+Harry Bosch,Michael Connelly,English,1992,42.0
+Warriors,Erin Hunter,English,2003,40.0
+The Shadowhunter Chronicles,Cassandra Clare,English,2007,50.0
+Paddington Bear,Michael Bond,English,1958,35.0
+Divergent trilogy,Veronica Roth,English,2011,35.0
+The Inheritance Cycle,Christopher Paolini,English,2002,33.0
+"Rich Dad, Poor Dad","Robert Kiyosaki, Sharon Lechter",English,1997,32.0
+Ramona,Beverly Cleary,English,1955,30.0
+The Dark Tower,Stephen King,English,1982,30.0
+Dork Diaries,Rachel Renée Russell,English,2009,30.0
+The Destroyer,"Warren Murphy and Richard Sapir, various authors",English,1971,30.0
+Curious George,Hans Augusto Rey and Margret Rey,English,1941,27.0
+Shannara,Terry Brooks,English,1977,26.0
+The Sword of Truth,Terry Goodkind,English,1998,25.0
+Outlander,Diana Gabaldon,English,1991,25.0
+Brain Quest,Various authors,English,1992,23.7
+South Beach Diet,Arthur Agatston,English,2003,22.0
+Artemis Fowl,Eoin Colfer,English,2001,21.0
+The Cosmere,Brandon Sanderson,English,2005,21.0
+I Survived,Lauren Tarshis,English,2010,
+Redwall,Brian Jacques,English,1986,20.0
+Maisy,Lucy Cousins,English,1990,20.0
+Dragonlance,Various authors,English,1984,20.0
+The Foundation Trilogy,Isaac Asimov,English,1950,20.0
+Horrible Histories,Terry Deary,English,1993,20.0
+Rainbow Magic,Daisy Meadows,English,2003,20.0
+The Southern Vampire Mysteries,Charlaine Harris,English,2001,20.0
+Doc Savage,"Lester Dent, various authors",English,1933,20.0
+Dragonriders of Pern,Anne McCaffrey,English,1967,18.0
+The Hitchhiker's Guide to the Galaxy,"Douglas Adams, plus a final book by Eoin Colfer",English,1979,16.0
+Bridget Jones,Helen Fielding,English,1996,15.0
+His Dark Materials,Philip Pullman,English,1995,15.0
+The No. 1 Ladies Detective Agency,Alexander McCall Smith,English,1999,15.0
+The Riftwar Cycle,Raymond E. Feist,English,1982,15.0
+The Thrawn trilogy,Timothy Zahn,English,1991,15.0
